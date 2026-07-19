@@ -1,5 +1,6 @@
 .env
 node_modules/
+SPEC_1.md
 
 # Python
 __pycache__/
